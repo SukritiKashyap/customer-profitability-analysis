@@ -3,7 +3,7 @@ Overview
 
 This project analyzes retail transaction data to identify profitable customer segments and estimate Customer Lifetime Value (CLV). The goal is to understand customer purchasing behavior and determine which customers contribute the most to business revenue and profit.
 
-#Dataset
+#Dataset: 
 Online Retail Transaction Dataset
 
 link of the data: https://drive.google.com/file/d/1AqM4oYfssXSLq5fPC5KFalBcOK39kpxD/view?usp=sharing
