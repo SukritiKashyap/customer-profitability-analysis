@@ -3,50 +3,41 @@ Overview
 
 This project analyzes retail transaction data to identify profitable customer segments and estimate Customer Lifetime Value (CLV). The goal is to understand customer purchasing behavior and determine which customers contribute the most to business revenue and profit.
 
-Dataset
-
+#Dataset
 Online Retail Transaction Dataset
-Source: UCI Machine Learning Repository
+Source: Kaggle
 
 The dataset contains transaction-level records including customer ID, invoice number, quantity, price, and purchase date.
 
-Tools
-
+#Tools used:
 Python
 Pandas
 NumPy
 Seaborn
 Matplotlib
 Scikit-learn
-Google Colab / Jupyter Notebook
+Google Colab
 
-Workflow
+#Workflow
 
 Data cleaning and preprocessing
-
 Feature engineering (revenue and order metrics)
-
 Customer aggregation and analysis
-
 Customer segmentation using clustering
-
 Profit contribution and customer value analysis
 
-Key Insights
+#Key Insights
 
 A small percentage of customers generate a large share of revenue.
-
 High-value customers show higher purchase frequency and order value.
-
 Customer segmentation helps identify profitable customer groups.
 
-Project Structure
+#Project Structure
 
-data – sample dataset
 notebooks – analysis notebook
 images – visualization outputs
 
-Skills Demonstrated
+#Skills Demonstrated
 
 Data Cleaning
 Exploratory Data Analysis
